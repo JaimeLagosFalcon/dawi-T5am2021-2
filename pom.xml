@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ciberfarma</groupId>
-	<artifactId>jpa_sesion02</artifactId>
+	<artifactId>jpa_sesion04</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jaimelagos</name>
 	<description>Proyecto JPA con Maven</description>
