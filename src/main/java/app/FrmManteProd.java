@@ -170,7 +170,7 @@ public class FrmManteProd extends JFrame implements ActionListener {
 		String sql = "select c from Categoria c";
 
 		List<Categoria> lstCategoria = em.createQuery(sql, Categoria.class).getResultList();
-
+		System.out.println("cambio");
 		cboCategorias.addItem("Seleccione");
 
 		for (Categoria c : lstCategoria) {
